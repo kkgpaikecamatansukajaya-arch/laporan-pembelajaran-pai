@@ -1,0 +1,6 @@
+{
+  "name": "ADM GURU PAI",
+  "description": "Aplikasi Sistem Informasi Manajemen Administrasi Guru Pendidikan Agama Islam berbasis Kurikulum Merdeka",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
