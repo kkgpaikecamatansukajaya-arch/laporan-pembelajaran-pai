@@ -16,3 +16,7 @@
 local.properties
 .env
 debug.keystore
+
+# Browser companion build artifacts
+web/node_modules/
+web/dist/
